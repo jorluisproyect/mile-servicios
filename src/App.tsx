@@ -25,6 +25,9 @@ const steps = [
 const whatsappUrl =
   "https://wa.me/584142436397?text=Hola%2C%20quisiera%20recibir%20informaci%C3%B3n%20sobre%20sus%20servicios%20de%20gesti%C3%B3n.";
 
+const whatsappAdminTwoUrl =
+  "https://wa.me/584143895429?text=Hola%2C%20quisiera%20recibir%20informaci%C3%B3n%20sobre%20sus%20servicios%20de%20gesti%C3%B3n.";
+
 function Arrow() {
   return <svg aria-hidden="true" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><path d="M5 12h14M13 6l6 6-6 6" /></svg>;
 }
@@ -139,9 +142,14 @@ export default function App() {
             <strong>Atención desde Caracas</strong>
             <span>Asesoría remota disponible a nivel nacional.</span>
           </div>
-          <a className="whatsapp-button" href={whatsappUrl} target="_blank" rel="noreferrer">
-            WhatsApp: +58 414-2436397 <Arrow />
-          </a>
+          <div className="contact-buttons">
+            <a className="whatsapp-button" href={whatsappUrl} target="_blank" rel="noreferrer">
+              Administrador 1: +58 414-2436397 <Arrow />
+            </a>
+            <a className="whatsapp-button whatsapp-button-secondary" href={whatsappAdminTwoUrl} target="_blank" rel="noreferrer">
+              Administrador 2: +58 414-3895429 <Arrow />
+            </a>
+          </div>
         </div>
       </section>
 
