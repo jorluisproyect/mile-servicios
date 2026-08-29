@@ -30,7 +30,7 @@ el proceso de atención e incorpora contacto directo mediante WhatsApp.
 - Diseño responsive para móvil y escritorio.
 - Navegación por secciones.
 - Catálogo claro de servicios y áreas de gestión.
-- Enlace directo a WhatsApp con mensaje preparado.
+- Dos enlaces directos a WhatsApp con mensajes preparados para los administradores.
 - Información de cobertura: Caracas y asesoría remota nacional.
 - Aviso visible de servicio privado e independiente.
 - HTML semántico y soporte para navegación por teclado.
@@ -86,7 +86,7 @@ the client journey, and provides direct WhatsApp contact.
 - Responsive mobile and desktop design.
 - Section-based navigation.
 - Clear service and institution catalog.
-- Direct WhatsApp link with a prefilled message.
+- Two direct WhatsApp links with prefilled messages for the administrators.
 - Coverage information for Caracas and remote service across Venezuela.
 - Clear independent-service disclaimer.
 - Semantic HTML and keyboard-friendly navigation.
