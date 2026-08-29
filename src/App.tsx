@@ -40,8 +40,8 @@ export default function App() {
   return (
     <main>
       <header className="site-header">
-        <a className="brand" href="#inicio" aria-label="Mile Servicios, inicio">
-          <span className="brand-mark">M</span><span>Mile <strong>Servicios</strong></span>
+        <a className="brand" href="#inicio" aria-label="G&M Consultores Contables & Tributarios, inicio">
+          <span className="brand-mark">G&amp;M</span><span className="brand-name"><strong>G&amp;M</strong> Consultores Contables &amp; Tributarios</span>
         </a>
         <nav aria-label="Navegación principal">
           <a href="#servicios">Servicios</a>
@@ -153,14 +153,14 @@ export default function App() {
         </div>
       </section>
 
-      <a className="floating-whatsapp" href={whatsappUrl} target="_blank" rel="noreferrer" aria-label="Contactar a Mile Servicios por WhatsApp">
+      <a className="floating-whatsapp" href={whatsappUrl} target="_blank" rel="noreferrer" aria-label="Contactar a G&M Consultores Contables & Tributarios por WhatsApp">
         WA
       </a>
 
       <footer>
-        <a className="brand footer-brand" href="#inicio"><span className="brand-mark">M</span><span>Mile <strong>Servicios</strong></span></a>
+        <a className="brand footer-brand" href="#inicio"><span className="brand-mark">G&amp;M</span><span className="brand-name"><strong>G&amp;M</strong> Consultores Contables &amp; Tributarios</span></a>
         <p>Servicio privado e independiente de asesoría y gestión. No somos un organismo gubernamental ni representamos oficialmente a las instituciones mencionadas.</p>
-        <span>© 2026 Mile Servicios</span>
+        <span>© 2026 G&M Consultores Contables & Tributarios</span>
       </footer>
     </main>
   );
