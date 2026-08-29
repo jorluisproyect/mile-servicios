@@ -3,7 +3,7 @@
 Sitio web profesional para **Mile Servicios**, una empresa ubicada en Caracas
 que ofrece asesoría presencial y remota a clientes de toda Venezuela.
 
-[Ver aplicación publicada](https://mile-servicios.jorluisproyect.chatgpt.site)
+[Ver aplicación publicada](https://mile-servicios.netlify.app)
 
 ## Español
 
