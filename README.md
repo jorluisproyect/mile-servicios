@@ -1,6 +1,6 @@
-# Mile Servicios
+# G&M Consultores Contables & Tributarios
 
-Sitio web profesional para **Mile Servicios**, una empresa ubicada en Caracas
+Sitio web profesional para **G&M Consultores Contables & Tributarios**, una empresa ubicada en Caracas
 que ofrece asesoría presencial y remota a clientes de toda Venezuela.
 
 [Ver aplicación publicada](https://mile-servicios.netlify.app)
@@ -9,7 +9,7 @@ que ofrece asesoría presencial y remota a clientes de toda Venezuela.
 
 ### El problema
 
-Mile Servicios necesitaba presentar sus áreas de atención de forma clara,
+G&M Consultores Contables & Tributarios necesitaba presentar sus áreas de atención de forma clara,
 transmitir confianza y facilitar que un cliente pudiera iniciar una consulta
 desde su teléfono.
 
@@ -67,7 +67,7 @@ de la carpeta `app/`.
 
 ### The problem
 
-Mile Servicios needed a clear and trustworthy website to present its service
+G&M Consultores Contables & Tributarios needed a clear and trustworthy website to present its service
 areas and help potential clients start a consultation from their phones.
 
 ### The solution
